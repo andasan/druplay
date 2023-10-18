@@ -9,8 +9,6 @@ Welcome to the Drupal Playground project, a sandbox for experimenting with Drupa
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
